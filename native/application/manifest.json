@@ -1,0 +1,10 @@
+{
+    "name": "com.pdfsigncc.nativehost",
+    "description": "PDF PT CC Signing",
+    "path": "NativePDFCCSign.exe",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://agmijmlopfbbgdbliclncpnddhhdmodo/"
+    ]
+}
+
