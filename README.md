@@ -1,2 +1,2 @@
 # CCPDFSign
-Sign with the portuguese identification card a pdf in base64 string, from Chrome.
+Sign with the portuguese identification smartcard a pdf in base64 string, from Chrome.
